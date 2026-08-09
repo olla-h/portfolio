@@ -119,9 +119,9 @@ I am open to freelance projects involving:
 
 ## Contact
 
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your professional email]
-- GitHub: [Add your GitHub username]
+- LinkedIn: [www.linkedin.com/in/olla-mohammed]
+- Email: [ollamohammed99@gmail.com]
+- GitHub: [olla-h]
 
 ---
 
