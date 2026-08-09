@@ -246,7 +246,7 @@ workflows, defining KPIs, and implementing the redesigned processes in Raybex.
 - Process optimization
 - Digital transformation
 
-→ [Project overview](projects/white-nile-raybex.md)
+→ [Project overview](projects/digital-transformation.md)
 
 ---
 
