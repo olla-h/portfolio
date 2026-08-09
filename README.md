@@ -71,13 +71,6 @@ Work included business/product thinking, market-oriented analysis, and service d
 
 → [Project overview](projects/e-livery.md)
 
-### 🧠 Salimeen — Mental Health App Concept
-Digital product concept designed for the MENA market.
-
-Work included product concept development, market positioning, digital strategy, and user-oriented service thinking.
-
-→ [Project overview](projects/salimeen.md)
-
 ## Research & Academic Work
 
 - EEG and Brain-Computer Interface research
